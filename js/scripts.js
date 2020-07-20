@@ -23,4 +23,4 @@ if (myGender=Male) {
 else {
   var myName = femaleAkanNames[result]
 }
-alert(myName);
+alert(myName[result]);
