@@ -10,10 +10,8 @@ This website generates names based on the day you were born.
 
 ## Setup/Installation Requirements
 
-- Open terminal (CTRL ALT T)
-- Git clone
-- cd Akan-Name-Program
-- On terminal type atom . to open using atom or type code . to open using Visual Studio.
+- Open the browser
+  Type Isaac-waithaka.github.io/Akan-Name-Program
 
 ## Technologies Used
 
