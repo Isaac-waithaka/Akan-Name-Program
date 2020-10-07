@@ -1,4 +1,4 @@
-# Akan Names Generator
+# Akan Name Program
 
 ## Author
 
@@ -6,13 +6,13 @@ Isaac Waithaka
 
 ## Description
 
-This website is an Akan Name generator, that generates names based on the day you were born.
+This website generates names based on the day you were born.
 
 ## Setup/Installation Requirements
 
 - Open terminal (CTRL ALT T)
 - Git clone
-- cd AKAN-NAMES
+- cd Akan-Name-Program
 - On terminal type atom . to open using atom or type code . to open using Visual Studio.
 
 ## Technologies Used
