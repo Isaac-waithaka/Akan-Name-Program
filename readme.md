@@ -11,7 +11,7 @@ This website generates names based on the day you were born.
 ## Setup/Installation Requirements
 
 - Open the browser
-  Type Isaac-waithaka.github.io/Akan-Name-Program
+  Type  https://Isaac-waithaka.github.io/Akan-Name-Program
 
 ## Technologies Used
 
