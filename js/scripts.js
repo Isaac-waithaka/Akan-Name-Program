@@ -41,7 +41,7 @@ function getAkanName() {
 	//validate date
 	if (day <= 0 || day >= 32) {
 		alert(
-			"Enter valid date"
+			"Enter valid date!"
 		);
 	}
 	var day = new Date(year + "/" + month + "/" + day);
