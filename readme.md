@@ -15,12 +15,11 @@ This website generates names based on the day you were born.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- Bootstrap4
-- GIT version control
+- HTML
+- CSS
+- Bootstrap
 
-## Licence
+## License
 
 -Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
