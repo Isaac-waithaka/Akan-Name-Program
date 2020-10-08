@@ -22,4 +22,3 @@ This website generates names based on the day you were born.
 
 ## Licence
 
-- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
